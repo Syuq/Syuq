@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 [![Syuq's github stats](https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/Syuq)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syuq&layout=compact&text_color=daf7dc&bg_color=222222)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syuq&layout=compact&text_color=daf7dc&bg_color=282a36)
 
