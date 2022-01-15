@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573">
-  <!-- <img src="https://github.com/Syuq/Syuq/blob/main/T2.gif" align="right" /> -->
+  <img src="https://github.com/Syuq/Syuq/blob/main/T2.gif" align="right" />
 </a>
 
 [![Syuq's github stats](https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&bg_color=50fa7b)](https://github.com/Syuq)
