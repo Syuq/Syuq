@@ -14,3 +14,7 @@
 <p align="center"> <a href="https://github.com/Syuq"><img src="https://github-profile-trophy.vercel.app/?username=Syuq&margin-w=5&theme=radical" alt="Syuq" /></a> </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
+
+<p align='center'>
+<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+</p>
