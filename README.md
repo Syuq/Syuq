@@ -9,6 +9,5 @@
 
 <p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Syuq&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align='center'>
-<img src="https://github.com/Syuq/Syuq/blob/output/github-contribution-grid-snake.svg">
-</p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syuq&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
+
