@@ -12,3 +12,5 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syuq&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
 <p align="center"> <a href="https://github.com/Syuq"><img src="https://github-profile-trophy.vercel.app/?username=Syuq&margin-w=5&theme=radical" alt="Syuq" /></a> </p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
