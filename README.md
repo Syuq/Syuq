@@ -15,6 +15,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
 
-<p align='center'>
+<!--<p align='center'>
 <img src="https://github.com/Syuq/Syuq/blob/output/github-contribution-grid-snake.svg">
-</p>
+</p>-->
