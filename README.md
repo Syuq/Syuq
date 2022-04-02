@@ -1,6 +1,6 @@
-_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
+_**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
 
-Edmund Hillary
+Mohamad Ali
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="snowwhite-boss" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
