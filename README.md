@@ -1,6 +1,6 @@
-_**When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.**_
+_**One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.**_
 
-Elon Musk
+Barack Obama
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="snowwhite-boss" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
