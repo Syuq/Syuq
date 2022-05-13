@@ -15,3 +15,4 @@ Barack Obama
 <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
 
 <p align='center'><img src="https://github.com/Syuq/Syuq/blob/output/github-contribution-grid-snake.svg"></p>
+![Alt](https://repobeats.axiom.co/api/embed/f0fe7b57d9e7d97b6c0e85c37325593f39ae14fa.svg "Repobeats analytics image")
