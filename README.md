@@ -1,6 +1,6 @@
-_**When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'**_
+_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
 
-Brene Brown
+Mohamad Ali
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
