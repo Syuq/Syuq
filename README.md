@@ -1,6 +1,6 @@
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
+_**Winning is nice if you don't lose your integrity in the process.**_
 
-George Bernard Shaw
+Arnold Horshak
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
