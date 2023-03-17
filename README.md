@@ -1,6 +1,6 @@
-_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-G. Kingsley Ward
+Winston Churchill
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
