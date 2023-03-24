@@ -1,6 +1,6 @@
-_**If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.**_
+_**The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.**_
 
-Jack Ma
+Martina Navratilova
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
