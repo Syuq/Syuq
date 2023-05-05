@@ -34,7 +34,7 @@ const generate = async () => {
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syuq&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
-<p align="center"> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Syuq/syuq/blob/master/devcard.svg" width="400" alt="Wine's Dev Card"/></a></p>
+<p align="center"> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="400" alt="Wine's Dev Card"/></a></p>
 
 <p align="center"> <a href="https://github.com/Syuq"><img src="https://github-profile-trophy.vercel.app/?username=Syuq&margin-w=5&theme=radical" alt="Syuq" /></a></p>
 
