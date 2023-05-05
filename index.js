@@ -30,11 +30,11 @@ const generate = async () => {
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syuq&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
 
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Syuq&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Wine Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Syuq&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syuq&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
-<p align="center"> <a href="https://app.daily.dev/Syuq"><img src="https://api.daily.dev/devcards/43e9da30ad0a4736a92de9d5fce9cab6.png?r=ucm" width="400" alt="Wine's Dev Card"/></a></p>
+<p align="center"> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Syuq/syuq/blob/master/devcard.svg" width="400" alt="Wine's Dev Card"/></a></p>
 
 <p align="center"> <a href="https://github.com/Syuq"><img src="https://github-profile-trophy.vercel.app/?username=Syuq&margin-w=5&theme=radical" alt="Syuq" /></a></p>
 
