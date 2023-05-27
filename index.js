@@ -42,6 +42,8 @@ const generate = async () => {
 
 <p align='center'><img src="https://github.com/Syuq/Syuq/blob/output/github-contribution-grid-snake.svg"></p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p aligh='center'><img src="https://repobeats.axiom.co/api/embed/f0fe7b57d9e7d97b6c0e85c37325593f39ae14fa.svg"></p>
 <details>
   <summary>:zap: GitHub Stats</summary>
