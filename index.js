@@ -3,9 +3,12 @@ const fs = require("fs");
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.rest/qod?language=en");
-    const quote = data.contents.quotes[0].quote;
-    const author = data.contents.quotes[0].author;
+    const { data } = await axios.get("https://api.quotable.io/random");
+    // const quote = data.contents.quotes[0].quote;
+    // const author = data.contents.quotes[0].author;
+
+    const quote = data.content;
+    const author = data.author;
 
     console.log("new quote", `"${quote}"`);
 
@@ -25,7 +28,7 @@ const generate = async () => {
   if (!quote) return;
 
   fs.writeFileSync("README.md", `_**${quote}**_\n\n${author}
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syuq&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
@@ -50,6 +53,7 @@ const generate = async () => {
 
   <img align="left" alt="Syuq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Syuq&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>`);};
+</details>
+`);};
 
 generate();
