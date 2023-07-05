@@ -33,7 +33,7 @@ const generate = async () => {
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syuq&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syuq&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
 
-<p align="center"<a href="#"><img alt="Wine Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Syuq&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+![Syuq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syuq&custom_title=This%20is%20a%20title&hide_border=true)
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syuq&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
 
