@@ -1,6 +1,6 @@
-_**If we open a quarrel between past and present, we shall find that we have lost the future.**_
+_**I allow my intuition to lead my path.**_
 
-Winston Churchill
+Manuel Puig
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
