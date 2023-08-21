@@ -40,18 +40,6 @@ const generate = async () => {
   <p align="center"> <a href="https://github.com/Syuq"><img src="https://github-profile-trophy.vercel.app/?username=Syuq&margin-w=5&theme=radical" alt="Syuq" /></a></p>
   
   <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
-  
-  <p align='center'><img src="https://github.com/Syuq/Syuq/blob/output/github-contribution-grid-snake.svg"></p>
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-  <p aligh='center'><img src="https://repobeats.axiom.co/api/embed/f0fe7b57d9e7d97b6c0e85c37325593f39ae14fa.svg"></p>
-  <details>
-    <summary>:zap: GitHub Stats</summary>
-  
-    <img align="left" alt="Syuq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Syuq&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  
-  </details>
 `);};
 
 generate();
