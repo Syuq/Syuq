@@ -1,6 +1,6 @@
-_**Autumn is a second spring when every leaf is a flower.**_
+_**We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.**_
 
-Albert Camus
+Swami Vivekananda
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
