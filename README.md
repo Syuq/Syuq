@@ -1,6 +1,6 @@
-_**By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.**_
+_**Even if you're on the right track, you'll get run over if you just sit there.**_
 
-Laozi
+Will Rogers
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
