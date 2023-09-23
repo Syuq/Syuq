@@ -1,6 +1,6 @@
-_**If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.**_
+_**You cannot find yourself by going into the past. You can find yourself by coming into the present.**_
 
-Nelson Mandela
+Eckhart Tolle
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
