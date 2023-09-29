@@ -1,6 +1,6 @@
-_**It is not so important to know everything as to appreciate what we learn.**_
+_**I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.**_
 
-Hannah More
+Albert Einstein
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
