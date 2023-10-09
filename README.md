@@ -1,6 +1,6 @@
-_**Who sows virtue reaps honor.**_
+_**You can't let praise or criticism get to you. It's a weakness to get caught up in either one.**_
 
-Leonardo da Vinci
+John Wooden
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
