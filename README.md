@@ -1,6 +1,6 @@
-_**Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.**_
+_**Love doesn't make the world go round; love is what makes the ride worthwhile.**_
 
-Eustace Budgell
+Elizabeth Browning
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
