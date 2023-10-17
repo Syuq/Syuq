@@ -1,6 +1,6 @@
-_**Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.**_
+_**Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.**_
 
-Ernie Banks
+Babatunde Olatunji
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
