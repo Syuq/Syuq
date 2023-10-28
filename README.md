@@ -1,6 +1,6 @@
-_**I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.**_
+_**When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.**_
 
-Woody Allen
+Wayne Dyer
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
