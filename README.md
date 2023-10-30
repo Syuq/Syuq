@@ -1,6 +1,6 @@
-_**You need chaos in your soul to give birth to a dancing star.**_
+_**Start where you are. Use what you have. Do what you can.**_
 
-Friedrich Nietzsche
+Arthur Ashe
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
