@@ -1,6 +1,6 @@
-_**Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.**_
+_**If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.**_
 
-Chanakya
+John Steinbeck
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
