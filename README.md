@@ -1,6 +1,6 @@
-_**Friendship often ends in love, but love in friendship - never.**_
+_**I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.**_
 
-Albert Camus
+Ken Venturi
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -112,4 +112,4 @@ Albert Camus
     </td>
   </tr>
 </table>
-  
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6441448ce27257737493210b?variant=dark&roadmaps=flutter%2Cfrontend" alt="roadmap.sh"/></a> 
