@@ -41,7 +41,7 @@ const generate = async () => {
   
   <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
 
-  <h2> :face_with_tears_of_joy:</h2>
+  <h2> &#128514; </h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
