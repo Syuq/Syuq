@@ -1,6 +1,6 @@
-_**The greatest way to live with honor in this world is to be what we pretend to be.**_
+_**Absence makes the heart grow fonder.**_
 
-Socrates
+Thomas Haynes Bayly
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -13,7 +13,7 @@ Socrates
   
   <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
 
-  <h2> :face_with_tears_of_joy:</h2>
+  <h2> &#128514; </h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
