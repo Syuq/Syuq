@@ -1,6 +1,6 @@
-_**Nature and books belong to the eyes that see them.**_
+_**The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.**_
 
-Ralph Waldo Emerson
+Cicero
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
