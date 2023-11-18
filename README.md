@@ -1,6 +1,6 @@
-_**I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.**_
+_**The greatest way to live with honor in this world is to be what we pretend to be.**_
 
-Ken Venturi
+Socrates
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -13,7 +13,7 @@ Ken Venturi
   
   <p align="center"><img src="https://profile-counter.glitch.me/{Syuq}/count.svg" alt="Syuq :: Visitor's Count" /></p>
 
-  <h2>My stack :man_technologist:</h2>
+  <h2> :face_with_tears_of_joy:</h2>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -112,4 +112,4 @@ Ken Venturi
     </td>
   </tr>
 </table>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6441448ce27257737493210b?variant=dark&roadmaps=flutter%2Cfrontend" alt="roadmap.sh"/></a> 
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6441448ce27257737493210b?variant=dark&roadmaps=flutter%2Cfull-stack%2Cangular%2Cfrontend" alt="roadmap.sh"/></a> 
