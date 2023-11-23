@@ -1,6 +1,6 @@
-_**You don't look out there for God, something in the sky, you look in you.**_
+_**Imagination is the highest kite one can fly.**_
 
-Alan Watts
+Lauren Bacall
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
