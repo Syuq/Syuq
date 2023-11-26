@@ -1,6 +1,6 @@
-_**Always seek out the seed of triumph in every adversity.**_
+_**The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.**_
 
-Og Mandino
+Henry Miller
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
