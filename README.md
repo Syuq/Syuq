@@ -1,6 +1,6 @@
-_**The art of progress is to preserve order amid change, and to preserve change amid order.**_
+_**Maxim for life: You get treated in life the way you teach people to treat you.**_
 
-Alfred North Whitehead
+Wayne Dyer
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -112,4 +112,4 @@ Alfred North Whitehead
     </td>
   </tr>
 </table>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6441448ce27257737493210b?variant=dark&roadmaps=flutter%2Cfull-stack%2Cangular%2Cfrontend" alt="roadmap.sh"/></a> 
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=golang%2Crust%2Cjavascript%2Cflutter" alt="roadmap.sh"/></a> 
