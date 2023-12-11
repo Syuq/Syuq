@@ -1,6 +1,6 @@
-_**Love doesn't make the world go round; love is what makes the ride worthwhile.**_
+_**There is no retirement for an artist, it's your way of living so there is no end to it.**_
 
-Elizabeth Browning
+Henry Moore
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
