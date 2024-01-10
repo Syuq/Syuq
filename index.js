@@ -140,7 +140,7 @@ const generate = async () => {
     </td>
   </tr>
 </table>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=golang%2Crust%2Cjavascript%2Cflutter" alt="roadmap.sh"/></a> 
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6441448ce27257737493210b?variant=dark&roadmaps=golang%2Cfull-stack%2Cdevops%2Cjavascript" alt="roadmap.sh"/></a> 
 `);};
 
 generate();
