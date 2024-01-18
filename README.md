@@ -1,6 +1,6 @@
-_**Great minds discuss ideas; average minds discuss events; small minds discuss people.**_
+_**Vanity can easily overtake wisdom. It usually overtakes common sense.**_
 
-Eleanor Roosevelt
+Julian Casablancas
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -112,4 +112,4 @@ Eleanor Roosevelt
     </td>
   </tr>
 </table>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6441448ce27257737493210b?variant=dark&roadmaps=golang%2Cfull-stack%2Cdevops%2Cjavascript" alt="roadmap.sh"/></a> 
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=devops%2Cfull-stack%2Cgolang%2Cjavascript" alt="roadmap.sh"/></a> 
