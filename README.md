@@ -1,6 +1,6 @@
-_**Feeling and longing are the motive forces behind all human endeavor and human creations.**_
+_**Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.**_
 
-Albert Einstein
+Earl Monroe
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
