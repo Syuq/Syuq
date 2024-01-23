@@ -1,6 +1,6 @@
-_**For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.**_
+_**There are two kinds of failures: those who thought and never did, and those who did and never thought.**_
 
-Judy Garland
+Laurence J. Peter
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
