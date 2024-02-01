@@ -1,6 +1,6 @@
-_**Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.**_
+_**The world is round and the place which may seem like the end may also be the beginning.**_
 
-Mary Kay Ash
+Ivy Baker Priest
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
