@@ -1,6 +1,6 @@
-_**When one tugs at a single thing in nature, he finds it attached to the rest of the world.**_
+_**Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too.**_
 
-John Muir
+Marcus Aurelius
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
