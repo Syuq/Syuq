@@ -1,6 +1,6 @@
-_**Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.**_
+_**To effectively communicate, we must realize that we are all different in the way we perceive the world and use this understanding as a guide to our communication with others.**_
 
-Eleanor Roosevelt
+Tony Robbins
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
