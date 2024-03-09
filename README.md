@@ -1,6 +1,6 @@
-_**Technology… the knack of so arranging the world that we don't have to experience it.**_
+_**To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god.**_
 
-Max Frisch
+Napoleon
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
