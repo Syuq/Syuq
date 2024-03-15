@@ -1,6 +1,6 @@
-_**Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.**_
+_**If opportunity doesn't knock, build a door.**_
 
-Julie Morgenstern
+Milton Berle
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
