@@ -1,6 +1,6 @@
-_**In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.**_
+_**Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful.**_
 
-François de La Rochefoucauld
+John Wooden
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
