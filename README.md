@@ -1,6 +1,6 @@
-_**A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.**_
+_**The only thing to do with good advice is to pass it on. It is never of any use to oneself.**_
 
-Jawaharlal Nehru
+Oscar Wilde
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
