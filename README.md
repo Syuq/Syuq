@@ -1,6 +1,6 @@
-_**The only thing to do with good advice is to pass it on. It is never of any use to oneself.**_
+_**Friendship is a very taxing and arduous form of leisure activity.**_
 
-Oscar Wilde
+Mortimer J. Adler
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
