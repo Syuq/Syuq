@@ -1,6 +1,6 @@
-_**The shoe that fits one person pinches another; there is no recipe for living that suits all cases.**_
+_**Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.**_
 
-Carl Jung
+Arthur Conan Doyle
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -114,4 +114,4 @@ Carl Jung
 </table>
  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=devops%2Cfull-stack%2Cgolang%2Cjavascript" alt="roadmap.sh"/></a> 
  <a href="https://app.daily.dev/syuq"><img src="https://api.daily.dev/devcards/v2/yIJcS8j3cI6YwqKabdFud.png?type=default&r=xm6" width="356" alt="Wine's Dev Card"/></a>
-![](https://pixel-profile.vercel.app/api/github-stats?username=Syuq&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
+  <a href="locket.duyquys.id.vn"><img src="https://pixel-profile.vercel.app/api/github-stats?username=Syuq&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)" alt="Wine's Card"/></a>
