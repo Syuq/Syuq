@@ -142,7 +142,7 @@ const generate = async () => {
 </table>
  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=devops%2Cfull-stack%2Cgolang%2Cjavascript" alt="roadmap.sh"/></a> 
  <a href="https://app.daily.dev/syuq"><img src="https://api.daily.dev/devcards/v2/yIJcS8j3cI6YwqKabdFud.png?type=default&r=xm6" width="356" alt="Wine's Dev Card"/></a>
-![](https://pixel-profile.vercel.app/api/github-stats?username=Syuq&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
+  <a href="locket.duyquys.id.vn"><img src="https://pixel-profile.vercel.app/api/github-stats?username=Syuq&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)" alt="Wine's Card"/></a>
 `);};
 
 generate();
