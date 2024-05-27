@@ -1,6 +1,6 @@
-_**Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.**_
+_**The shoe that fits one person pinches another; there is no recipe for living that suits all cases.**_
 
-The Buddha
+Carl Jung
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -114,3 +114,4 @@ The Buddha
 </table>
  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=devops%2Cfull-stack%2Cgolang%2Cjavascript" alt="roadmap.sh"/></a> 
  <a href="https://app.daily.dev/syuq"><img src="https://api.daily.dev/devcards/v2/yIJcS8j3cI6YwqKabdFud.png?type=default&r=xm6" width="356" alt="Wine's Dev Card"/></a>
+![](https://pixel-profile.vercel.app/api/github-stats?username=Syuq&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
