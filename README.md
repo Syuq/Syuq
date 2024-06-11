@@ -1,6 +1,6 @@
-_**The superior man blames himself. The inferior man blames others.**_
+_**Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.**_
 
-Don Shula
+Abraham Lincoln
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
