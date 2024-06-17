@@ -1,6 +1,6 @@
-_**Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.**_
+_**If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.**_
 
-Helen Keller
+Mary Pickford
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
