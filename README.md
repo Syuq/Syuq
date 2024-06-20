@@ -1,6 +1,6 @@
-_**There is no fear for one whose mind is not filled with desires.**_
+_**Excellence is to do a common thing in an uncommon way.**_
 
-The Buddha
+Booker T. Washington
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
