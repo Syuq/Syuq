@@ -1,6 +1,6 @@
-_**A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.**_
+_**The simplest things are often the truest.**_
 
-Isaac Asimov
+Richard Bach
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -120,3 +120,4 @@ Isaac Asimov
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<img src="https://raw.githubusercontent.com/Syuq/Syuq/output/github-contribution-grid-snake-dark.svg" />
