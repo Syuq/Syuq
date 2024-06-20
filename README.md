@@ -1,6 +1,6 @@
-_**Excellence is to do a common thing in an uncommon way.**_
+_**A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.**_
 
-Booker T. Washington
+Isaac Asimov
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -115,3 +115,8 @@ Booker T. Washington
  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6441448ce27257737493210b?variant=dark&roadmaps=devops%2Cfull-stack%2Cgolang%2Cjavascript" alt="roadmap.sh"/></a> 
  <a href="https://app.daily.dev/syuq"><img src="https://api.daily.dev/devcards/v2/yIJcS8j3cI6YwqKabdFud.png?type=default&r=xm6" width="356" alt="Wine's Dev Card"/></a>
   <a href="locket.duyquys.id.vn"><img src="https://pixel-profile.vercel.app/api/github-stats?username=Syuq&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb)" alt="Wine's Card"/></a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
