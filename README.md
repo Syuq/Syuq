@@ -1,6 +1,6 @@
-_**The possibilities are numerous once we decide to act and not react.**_
+_**Three things in human life are important. The first is to be kind. The second is to be kind. The third is to be kind.**_
 
-George Bernard Shaw
+Henry James
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
