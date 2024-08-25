@@ -1,6 +1,6 @@
-_**A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.**_
+_**They blame those who remain silent, they blame those who speak much, they blame those who speak in moderation. There is none in the world who is not blamed.**_
 
-George Bernard Shaw
+The Buddha
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
