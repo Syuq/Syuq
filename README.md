@@ -1,4 +1,4 @@
-_**What we achieve inwardly will change outer reality.**_
+_**Know how to listen, and you will profit even from those who talk badly.**_
 
 Plutarch
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
