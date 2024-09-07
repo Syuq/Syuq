@@ -1,6 +1,6 @@
-_**The Superior Man is aware of Righteousness, the inferior man is aware of advantage.**_
+_**It is through science that we prove, but through intuition that we discover.**_
 
-Confucius
+Henri Poincaré
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
