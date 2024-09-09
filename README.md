@@ -1,4 +1,4 @@
-_**Do not wait for leaders; do it alone, person to person.**_
+_**We can do no great things, only small things with great love.**_
 
 Mother Teresa
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
