@@ -1,16 +1,21 @@
 const axios = require("axios");
 const fs = require("fs");
+const url = 'https://zenquotes.io/api/random';
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://api.quotable.io/random");
+    // const { data } = await axios.get("https://api.quotable.io/random");
     // const quote = data.contents.quotes[0].quote;
     // const author = data.contents.quotes[0].author;
 
-    const quote = data.content;
-    const author = data.author;
+    const response = await axios.get(url);
+    const quoteData = response.data[0];
 
-    console.log("new quote", `"${quote}"`);
+    const quote = quoteData.q;
+    const author = quoteData.a;
+
+    // console.log("new quote", `"${quote}"`);
+    console.log(`"${quoteData.q}" - ${quoteData.a}`);
 
     return {
       quote,
