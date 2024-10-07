@@ -1,6 +1,6 @@
-_**You must learn to let go. Release the stress. You were never in control anyway.**_
+_**A lot of people have gone further than they thought they could because someone else thought they could.**_
 
-Steve Maraboli
+Zig Ziglar
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
