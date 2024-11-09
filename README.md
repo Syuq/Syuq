@@ -1,6 +1,6 @@
-_**Laziness may appear attractive, but work gives satisfaction.**_
+_**Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.**_
 
-Anne Frank
+Charles Dickens
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
