@@ -1,6 +1,6 @@
-_**You can have the mind or you can have the moment.**_
+_**One always begins to forgive a place as soon as it's left behind.**_
 
-Naval Ravikant
+Charles Dickens
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
