@@ -1,6 +1,6 @@
-_**If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest.**_
+_**Don't set your own goals by what other people make important.**_
 
-Seungsahn
+Lolly Daskal
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
