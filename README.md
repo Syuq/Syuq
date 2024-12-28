@@ -1,6 +1,6 @@
-_**The eye with which I see God is the same eye with which God sees me.**_
+_**Who wishes to fight must first count the cost.**_
 
-Meister Eckhart
+Sun Tzu
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
