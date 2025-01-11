@@ -29,27 +29,3 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.GH_PAT }}
-
-          # Options
-          user: Syuq
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Ho_Chi_Minh
-          plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_traffic: yes
-          #plugin_wakatime: yes
-          #plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
-          #plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
-          #plugin_wakatime_days: 365
-          #plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
