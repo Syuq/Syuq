@@ -11,15 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    concurrency:
-      group: metrics-update
-      cancel-in-progress: true
+    #concurrency:
+      #group: metrics-update
+      #cancel-in-progress: true
     steps:
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache
-          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
