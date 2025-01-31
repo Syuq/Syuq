@@ -1,6 +1,6 @@
-_**Happiness is not a goal...it's a by-product of a life well lived.**_
+_**It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.**_
 
-Eleanor Roosevelt
+Epictetus
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
