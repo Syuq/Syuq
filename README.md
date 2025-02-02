@@ -1,6 +1,6 @@
-_**There are three classes of people: those who see. Those who see when they are shown. Those who do not see.**_
+_**If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present.**_
 
-Leonardo da Vinci
+Lao Tzu
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
