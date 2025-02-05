@@ -1,6 +1,6 @@
-_**Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.**_
+_**No one ever is defeated until defeat has been accepted as a reality.**_
 
-Earl Nightingale
+Napoleon Hill
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -121,3 +121,7 @@ Earl Nightingale
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <img src="https://raw.githubusercontent.com/Syuq/Syuq/output/github-contribution-grid-snake-dark.svg" />
+
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/Syuq/Syuq/main/github-metrics.svg" /></p>
