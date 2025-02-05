@@ -15,7 +15,8 @@ jobs:
       #group: metrics-update
       #cancel-in-progress: true
     steps:
-      - uses: lowlighter/metrics@latest
+      #- uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
           # The following scopes are required:
