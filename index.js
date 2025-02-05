@@ -154,6 +154,10 @@ const generate = async () => {
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 <img src="https://raw.githubusercontent.com/Syuq/Syuq/output/github-contribution-grid-snake-dark.svg" />
+
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/Syuq/Syuq/main/github-metrics.svg" /></p>
 `);};
 
 generate();
