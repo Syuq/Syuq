@@ -1,6 +1,6 @@
-_**Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.**_
+_**The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.**_
 
-Dale Carnegie
+Oprah Winfrey
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
