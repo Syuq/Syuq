@@ -1,6 +1,6 @@
-_**The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.**_
+_**The world is open for play, everything and everybody is mockable in a wonderful way.**_
 
-Oprah Winfrey
+Robin Williams
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
