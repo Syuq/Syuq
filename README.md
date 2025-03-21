@@ -1,6 +1,6 @@
-_**The quality of your life is the quality of your relationships.**_
+_**Work harder on yourself than you do on your job.**_
 
-Tony Robbins
+Jim Rohn
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
