@@ -1,6 +1,6 @@
-_**To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.**_
+_**There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return.**_
 
-Criss Jami
+Nelson Mandela
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
