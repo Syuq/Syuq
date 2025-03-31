@@ -23,4 +23,5 @@ jobs:
         git config --global user.name "Syuq"
         git add .
         git commit -m "Updated README.md" || echo "No changes to commit"
+        git pull --rebase origin main
         git push
