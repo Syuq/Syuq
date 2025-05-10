@@ -1,4 +1,4 @@
-_**We can change our lives. We can do, have, and be exactly what we wish.**_
+_**I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.**_
 
 Tony Robbins
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
