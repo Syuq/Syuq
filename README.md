@@ -1,6 +1,6 @@
-_**Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.**_
+_**If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.**_
 
-Sydney Smith
+Andrew Carnegie
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
