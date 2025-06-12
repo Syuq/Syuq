@@ -1,6 +1,6 @@
-_**Far and away the best prize that life has to offer is the chance to work hard at work worth doing.**_
+_**Nothing is really work unless you would rather be doing something else. **_
 
-Theodore Roosevelt
+James Matthew Barrie
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
