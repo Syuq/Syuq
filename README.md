@@ -1,6 +1,6 @@
-_**Live life as though nobody is watching, and express yourself as though everyone is listening.**_
+_**Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.**_
 
-Nelson Mandela
+Og Mandino
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
