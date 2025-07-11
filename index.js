@@ -157,7 +157,7 @@ const generate = async () => {
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/Syuq/Syuq/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/Syuq/Syuq/main/github-metrics.svg" alt="Metrics" width="100%" /></p>
 `);};
 
 generate();
