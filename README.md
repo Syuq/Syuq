@@ -1,6 +1,6 @@
-_**Believe in your infinite potential. Your only limitations are those you set upon yourself.**_
+_**No one returns from a long journey the same person they were before.**_
 
-Roy T. Bennett
+Zen Proverb
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
@@ -124,4 +124,4 @@ Roy T. Bennett
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/Syuq/Syuq/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/Syuq/Syuq/main/github-metrics.svg" alt="Metrics" width="100%" /></p>
