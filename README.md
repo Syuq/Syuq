@@ -1,4 +1,4 @@
-_**One small positive thought can change your whole day.**_
+_**You need a plan to build a house. To build a life, it is even more important to have a plan or goal.**_
 
 Zig Ziglar
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
