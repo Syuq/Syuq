@@ -1,6 +1,6 @@
-_**I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.**_
+_**Heroes don't need to talk about what they did.**_
 
-Og Mandino
+W.P. Kinsella
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
