@@ -1,4 +1,4 @@
-_**Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.**_
+_**Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.**_
 
 Deepak Chopra
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
