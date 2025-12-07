@@ -1,6 +1,6 @@
-_**Have the courage to follow your heart and intuition. They somehow know what you truly want to become.**_
+_**Success is built sequentially. It's one thing at a time.**_
 
-Steve Jobs
+Gary Keller
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
