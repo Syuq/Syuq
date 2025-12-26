@@ -2328,12 +2328,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">ecommerce-backend-nodejs</span>
-                                <div class="bar" style="width: 61.024%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 61%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">76%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">go-vetautet-backend-api</span>
-                                <div class="bar" style="width: 3.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.6959999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
@@ -2358,12 +2358,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 59.25599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 59.239999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 3.7920000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
@@ -2414,7 +2414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2025, 12:31:13 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2025, 15:19:45 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
