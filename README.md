@@ -1,6 +1,6 @@
-_**Age is a very high price to pay for maturity.**_
+_**Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.**_
 
-William James
+Roy T. Bennett
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
