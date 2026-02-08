@@ -1,4 +1,4 @@
-_**Goals are the fuel in the furnace of achievement.**_
+_**Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.**_
 
 Brian Tracy
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
