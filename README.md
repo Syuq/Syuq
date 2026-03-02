@@ -1,6 +1,6 @@
-_**Keep your face always toward the sunshine -  shadows will fall behind you.**_
+_**It's the job that's never started that takes the longest to finish.**_
 
-Walt Whitman
+J.R.R. Tolkien
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
