@@ -1,6 +1,6 @@
-_**Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.**_
+_**There are two kinds of perfect people: those who are dead, and those who have not been born yet.**_
 
-Paramahansa Yogananda
+Chinese Proverb
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
