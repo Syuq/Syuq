@@ -1,6 +1,6 @@
-_**Without education, we are in a horrible and deadly danger of taking educated people seriously.**_
+_**Success and failure come and go, but don't let them define you. It's who you are that matters.**_
 
-Gilbert Chesterton
+Kamal Ravikant
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
