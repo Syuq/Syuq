@@ -1,4 +1,4 @@
-_**A dream doesn't become reality through magic it takes sweat, determination and hard work.**_
+_**Remain calm. Be kind.**_
 
 Colin Powell
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
