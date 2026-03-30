@@ -1,6 +1,6 @@
-_**It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.**_
+_**All men who have achieved great things have been great dreamers. **_
 
-Roy T. Bennett
+Orison Swett Marden
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
