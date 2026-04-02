@@ -1,6 +1,6 @@
-_**Judge your success by what you had to give up in order to get it.**_
+_**When we have our body and mind in order, everything else will exist in the right place, in the right way.**_
 
-Dalai Lama
+Shunryu Suzuki
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
