@@ -2308,7 +2308,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">ecommerce-backend-nodejs</span>
-                                <div class="bar" style="width: 68.76%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 68.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">86%</span>
                             </div>
                             <div class="entry">
@@ -2317,12 +2317,12 @@
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">nvim</span>
-                                <div class="bar" style="width: 0.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">go-drunk-backend-api-by-ddd</span>
+                                <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">go-drunk-backend-api-by-ddd</span>
+                                <span class="name">nvim</span>
                                 <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
@@ -2338,7 +2338,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 65.67999999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 65.696%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">82%</span>
                             </div>
                             <div class="entry">
@@ -2394,7 +2394,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2026, 14:01:51 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2026, 16:38:40 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
