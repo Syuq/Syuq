@@ -1,6 +1,6 @@
-_**Failure will never overtake me if my determination to succeed is strong enough.**_
+_**The greatest value of a picture is when it forces us to notice what we never expected to see.**_
 
-Og Mandino
+John Tukey
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
