@@ -1,6 +1,6 @@
-_**Take time like the river that never grows stale. Keep going and steady. No hurry, no rush.**_
+_**The only way to make sense out of change is to plunge into it, move with it, and join the dance.**_
 
-Rumi
+Alan Watts
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
