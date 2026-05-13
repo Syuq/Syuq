@@ -1,6 +1,6 @@
-_**The goal is not to be perfect by the end, the goal is to be better today.**_
+_**Life is like stepping onto a boat which is about to sail out to sea and sink.**_
 
-Simon Sinek
+Shunryu Suzuki
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
