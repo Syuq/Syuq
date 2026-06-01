@@ -1,6 +1,6 @@
-_**At the center of your being you have the answer; you know who you are and you know what you want.**_
+_**To do great work one must be very idle as well as very industrious.**_
 
-Lao Tzu
+Samuel Butler
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
