@@ -1,6 +1,6 @@
-_**Success is the sum of small efforts, repeated day in and day out.**_
+_**One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power.**_
 
-Robert Collier
+Tony Robbins
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
