@@ -1,4 +1,4 @@
-_**Although the world is full of suffering, it is also full of the overcoming of it.**_
+_**Keep your face to the sunshine and you cannot see the shadows.**_
 
 Helen Keller
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
