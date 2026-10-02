@@ -1,4 +1,4 @@
-_**Always turn a negative situation into a positive situation.**_
+_**If you quit once it becomes a habit.**_
 
 Michael Jordan
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
