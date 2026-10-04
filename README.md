@@ -1,6 +1,6 @@
-_**Become the kind of leader that people would follow voluntarily, even if you had no title or position.**_
+_**it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.**_
 
-Brian Tracy
+Barack Obama
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
