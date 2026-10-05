@@ -1,6 +1,6 @@
-_**it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds.**_
+_**When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.**_
 
-Barack Obama
+Charles Swindoll
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
