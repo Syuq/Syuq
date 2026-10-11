@@ -1,6 +1,6 @@
-_**Don't want anything. Then you get everything.**_
+_**Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do.**_
 
-Seungsahn
+Nelson Mandela
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
