@@ -1,6 +1,6 @@
-_**You need to be doing fewer things for more effect instead of doing more things with side effects.**_
+_**The moment you stop to think about whether you love someone, you've already stopped loving that person forever.**_
 
-Gary Keller
+Carlos Ruiz Zafon
   <p align="center"><img height="180em" src="https://github.com/Syuq/Syuq/blob/main/devcard.svg" width="300" alt="Wine's Dev Card"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Syuq&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Syuq" /></p>
 
